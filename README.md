@@ -1,5 +1,5 @@
-# document-management
-Document Management
+document-management
+# Document Management
 
 Based on "Bookstack" at https://www.bookstackapp.com/
 
